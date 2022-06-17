@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luiz-F-Souza
-- 👀 I’m interested in Front-End Development (for now)
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me ... instagram @lfsouza.98 || luizfelipesouza1998@outlook.com
 
